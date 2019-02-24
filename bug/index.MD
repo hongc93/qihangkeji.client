@@ -7,3 +7,4 @@
 5. http://www.qhtcl.com/a/ziyuan/2019/0222/4.html  这个里面的banner不对
 6. http://www.qhtcl.com/a/ziyuan/2019/0222/4.html ![6_bug](https://hongc93.github.io/qihangkeji.client/bug/6_bug.png) 
 7. 首页 这个调用 “栏目描述”
+![7_1_bug](https://hongc93.github.io/qihangkeji.client/bug/7_1_bug.png) ![7_2_bug](https://hongc93.github.io/qihangkeji.client/bug/7_2_bug.png) 
